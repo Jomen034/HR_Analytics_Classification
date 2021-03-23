@@ -1,4 +1,4 @@
-# HR_Analytics_Classification: Project Overview
+# HR Analytics Classification: Project Overview
 * Build model to help HR team to filter the eligibility of employees for promotion process
 * This dataset is obtained from [HR_Analytics_Classification | Kaggle](https://www.kaggle.com/bhrt97/hr-analytics-classification)
 * Cleaned the data from missing value with `mode()` for education's feature and `median()` for previous_year_rating's feature
