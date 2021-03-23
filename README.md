@@ -17,3 +17,17 @@
 | **Mia Maryasha** | maryashamia@gmail.com | +6281285566246 | www.linkedin.com/in/mia-maryasha-738723173 |
 | **M. Jayus Abror** | mhmdabror1994@gmail.com | +6282211101091 | www.linkedin.com/in/mohammad-ardiansyah-gonti-266706110 |
 | **Moh. Ardiansyah Gonti** | - | +6285717368356 | www.linkedin.com/in/mohammad-ardiansyah-gonti-266706110 |
+
+# Problems
+* Currently, **the processing & analysis** the employees data has been **largely manual to filter the eligibility** of employees for promotion, and this **leads to delay** in transition to the new roles after promotion
+* With a large time and manual process, processing & analysis are also **may be less accurate**
+
+# Purposes
+**Reduce the flow** of processing & analysis **to filter the eligibility** of employees with a **more automated process & more accurate**
+
+# Early Insight from The Data
+1. Distribution of Promoted Employees is not Balanced
+2. Employees who achieved their KPIs >80% have higher probabilities to get promotion
+3. Employees with award(s) also have the higher chance to get promotion
+4. Uniquely, employees with average training score is >=90 almost all of them get promotion
+5. Higher the rating, higher the chance to get promotion
