@@ -42,6 +42,14 @@ The model were evaluated with **F1-Score**. Choose the top 3 F1-Score for the ne
 | **Random Forest** | **47.40%** | **1.31%** |
 | **XGBoost** | **53.20%** | **0.20%** | 
 
+# Business Insight & Recomendations
+1. Performance Level (enginereed feature) can meassure the chance for employees eligibility<br>
+![alt text](https://github.com/Jomen034/HR_Analytics_Classification/blob/master/fig/Probability%20based%20on%20performance_level.png "Probability based on Performance Level")
+Improve employee performance by engaging them to achieve KPIs, take well-scored trainings, get award(s), and get high rating
+2. **Current features don’t have good pattern** for promoted employees. **Consider** to **add new features** to optimizing the identification process
+3. **Give feedback** to not promoted employees about why they didn’t get promoted
+4. **Build user-friendly web app** to operate the model **if then the model will be implemented**
+
 # Team Behind This Project
 * As the final project to finish learning path for Data Science in [Rakamin_Academy](https://rakamin.com/), this model was built from a growth team called **Hi5**<br>
 
